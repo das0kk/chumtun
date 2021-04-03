@@ -1,0 +1,33 @@
+
+money= 200
+red_candy= 0
+green_candy= 0
+blue_candy= 0
+>/(''
+  def buy(candy):
+    if candy = red:
+      if money < 125:
+        print ("you don't have enough money for a red candy")
+      elif:
+        return money-125
+        return red_candy + 1
+        print ("you have successfully bought a red candy")
+
+    elif candy = green:
+      if money < 250:
+        print ("you don't have enough money for a green candy")
+      elif:
+        return money - 250:
+        return green_candy+ 1
+        print ("you have successfully bought a green candy"
+
+    elif candy = blue:
+      if money < 750:
+        print("you don't have enough money for a blue candy"
+
+      elif:
+        return money - 750
+        return blue_candy + 1
+        print ("you have successfully bought a blue candy"
+
+print (buy(red))
